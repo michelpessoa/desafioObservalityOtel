@@ -40,7 +40,7 @@ Após a implementação dos serviços, adicione a implementação do OTEL + Zipk
 ------ 
 ## Para executar o projeto localmente siga os seguintes passos:
 
-1. `git clone https://https://github.com/michelpessoa/desafioObservalityOtel`
+1. `git clone https://github.com/michelpessoa/desafioObservalityOtel`
 2. `go mod tidy` para instalar todas as dependências
 3. Altere o valor da variável API Key no arquivo `docker-compose.yml`, incluindo uma válida
 3. `docker-compose up --build` execute o comando para iniciar os serviços 
